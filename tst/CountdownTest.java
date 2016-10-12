@@ -10,12 +10,6 @@ public class CountdownTest {
 
     @Test
     public void testCount() throws Exception {
-
-        // TODO: write 5 tests using TestNG
-        /*
-         * At least one must pass.
-         * At least one must fail.
-         */
         
         // Arrange
         int testNum = 10;
